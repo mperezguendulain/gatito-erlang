@@ -1,0 +1,28 @@
+
+erl -sname servidor
+
+c(gatito).
+
+gatito:start_servidor().
+
+
+
+
+erl -sname jugador1
+
+c(gatito).
+
+gatito:start_gato().
+
+servidor@host_name
+
+
+
+
+erl -sname jugador2
+
+c(gatito).
+
+gatito:start_gato().
+
+servidor@host_name

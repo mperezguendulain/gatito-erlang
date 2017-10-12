@@ -1,0 +1,68 @@
+body
+{
+	background: url(../img/fondo.gif);
+}
+
+.tira
+{
+	font-family: Berlin Sans FB;
+	font-size: 40pt;
+	color:#2ecc71;
+}
+.espera
+{
+	font-family: Berlin Sans FB;
+	font-size: 40pt;
+	color:#e74c3c;
+}
+#reset
+{
+	font-family: Berlin Sans FB;
+	font-size: 25pt;
+}
+#gato
+{
+	font-family: Berlin Sans FB;
+	font-size: 40pt;
+	color:#D8D8D8;
+}
+#turno
+{
+	color:white;
+	font-size: 20pt;
+	font-family:High Tower Text;
+}
+td
+{
+	width:150px; height:150px;
+	font-family: Eras Demi ITC;
+	color:#FE9A2E;
+	text-align:center;
+	font-size: 100pt;
+}
+#c0,#c3
+{
+	border-right: 3px solid #D8D8D8;;
+	border-bottom: 3px solid #D8D8D8;;
+}
+#c1,#c4
+{
+	border-bottom: 3px solid #D8D8D8;;
+}
+#c2,#c5
+{
+	border-bottom: 3px solid #D8D8D8;;
+	border-left: 3px solid #D8D8D8;;
+}
+#c6
+{
+	border-right: 3px solid #D8D8D8;
+}
+#c8
+{
+	border-left: 3px solid #D8D8D8;
+}
+img
+{
+	width:150px; height:150px;
+}
